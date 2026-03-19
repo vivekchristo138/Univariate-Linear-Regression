@@ -46,11 +46,13 @@ plt.show()
 ```
 ## Output
 </br>
-![WhatsApp Image 2026-03-19 at 10 14 11 AM](https://github.com/user-attachments/assets/ccfb4843-1b66-4639-ba8c-ce10cb4d8af7)
+![9-exp](https://github.com/user-attachments/assets/9f091ffb-f098-4555-8b12-4c87c188adcc)
+
 
 </br>
 </br>
-![WhatsApp Image 2026-03-19 at 10 14 11 AM (1)](https://github.com/user-attachments/assets/0ab8ac32-86c4-4f0a-8428-cdb36177e406)
+![9-exp2](https://github.com/user-attachments/assets/f9292732-31f0-42ac-a02d-cc7b8cd7af91)
+
 
 </br>
 
